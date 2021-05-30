@@ -1,5 +1,5 @@
 /*
-Solution of assignment 4:
+Module 4 Assignment Solution:
 Expected output:
 Hello Yaakov
 Good Bye John
